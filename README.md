@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-###Sites:-
-*[DIC](https://sites.google.com/view/dynamic-interest-calculator/home)
+### Sites:-
+* [DIC](https://sites.google.com/view/dynamic-interest-calculator/home)
 <!--
 **harshith8854/harshith8854** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
