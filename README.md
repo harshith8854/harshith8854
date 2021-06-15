@@ -1,5 +1,5 @@
 ### Hi there 👋
->📫 📧harshith8854@gmail.com
+>📧harshith8854@gmail.com
 ### Sites:-
 * [DIC](https://sites.google.com/view/dynamic-interest-calculator/home)
 ##### for future rememberance:-
